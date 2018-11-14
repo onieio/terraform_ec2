@@ -3,3 +3,6 @@ cd /home/user/Desktop/terraform_deploy/ec2_creation
 terraform init
 
 terraform apply
+
+Reference:
+https://blog.eulerdev.in/?p=125
