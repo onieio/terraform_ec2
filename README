@@ -1,0 +1,5 @@
+cd /home/user/Desktop/terraform_deploy/ec2_creation
+
+terraform init
+
+terraform apply
